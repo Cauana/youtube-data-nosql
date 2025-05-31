@@ -1,6 +1,6 @@
 from youtool import YouTube
 from pymongo import MongoClient
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import requests
 from dotenv import load_dotenv
 import os

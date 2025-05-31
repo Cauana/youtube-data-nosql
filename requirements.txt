@@ -1,0 +1,7 @@
+youtool
+pymongo
+python-dotenv
+matplotlib
+requests
+dotenv
+os

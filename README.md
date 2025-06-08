@@ -70,4 +70,4 @@ Escolha a opção desejada digitando o número correspondente.
 
 **Dica:** Sempre que rodar o script, ele atualiza os dados do canal no MongoDB automaticamente.
 
-![Demonstração do projeto](https://github.com/Cauana/youtube-data-nosql/blob/main/gif/aplicacao-funcionando.gif?raw=true)
+![Demonstração do projeto](https://github.com/Cauana/youtube-data-nosql/blob/main/gif/aplicacao-funcionando.gif)
